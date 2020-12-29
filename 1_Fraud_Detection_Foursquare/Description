@@ -1,0 +1,12 @@
+This project is to build a classifier to identify the fraud transactions in the data provided.
+The methods tried are 
+1. Logistics
+2. Random Forest
+3. XGBoost
+The poeject involves the whole lifecyle of a modeling project
+1. Data cleaning
+2. Visulization and EDA
+3. Data Split into Training and Validation.
+4. Modeling Fitting and Tuning.
+5. Model evaluation and selection
+6. Model Interpretation.
